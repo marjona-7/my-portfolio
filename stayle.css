@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: #4b2aad;
+    color: white;
+    padding: 40px 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.photo img {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.about {
+    background: white;
+}
+
+.skills {
+    background: #f0e6ff;
+}
+
+.skill-box {
+    display: inline-block;
+    background: #4b2aad;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.projects img {
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.contact {
+    background: white;
+}
+
+footer {
+    background: #4b2aad;
+    color: white;
+    padding: 15px;
+}
